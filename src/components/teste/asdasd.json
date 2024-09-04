@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_teste_asdasds",
+  "info": {
+    "displayName": "asdasd",
+    "icon": "chartPie",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Text": {
+      "type": "string"
+    },
+    "Title": {
+      "type": "string"
+    },
+    "tipologia": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::tipologia.tipologia"
+    }
+  }
+}

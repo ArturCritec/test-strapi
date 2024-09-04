@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tipologias",
+  "info": {
+    "singularName": "tipologia",
+    "pluralName": "tipologias",
+    "displayName": "Tipologias"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

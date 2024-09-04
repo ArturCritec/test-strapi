@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_teste_testes",
+  "info": {
+    "displayName": "Teste",
+    "icon": "chartPie"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    }
+  }
+}

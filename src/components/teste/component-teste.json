@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_teste_component_testes",
+  "info": {
+    "displayName": "Component teste",
+    "icon": "bold"
+  },
+  "options": {},
+  "attributes": {
+    "asdasd": {
+      "type": "string"
+    }
+  }
+}
